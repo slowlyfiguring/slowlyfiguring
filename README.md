@@ -15,7 +15,7 @@ Information Systems | Data Analytics | Python & SQL
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=slowlyfiguring&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=slowlyfiguring&theme=green&hide_border=true"/>
 </p>
 
 <div align="center">
