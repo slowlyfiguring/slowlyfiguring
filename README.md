@@ -20,12 +20,6 @@ Information Systems | Data Analytics | Python & SQL
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=slowlyfiguring&theme=darkhub&no-frame=true&margin-w=4"/>
-
-</div>
-
 ### 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=slowlyfiguring&theme=github-compact&hide_border=true" width="100%"/>
