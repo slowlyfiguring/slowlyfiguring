@@ -11,7 +11,7 @@ Information Systems | Data Analytics | Python & SQL
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowlyfiguring&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowlyfiguring&layout=compact&theme=merko&hide_border=true"/>
 </p>
 
 <p align="center">
