@@ -30,9 +30,6 @@ Information Systems | Data Analytics | Python & SQL
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=slowlyfiguring&theme=github-compact&hide_border=true" width="100%"/>
 
-### 🐍 Snake
-
-<img src="https://raw.githubusercontent.com/slowlyfiguring/slowlyfiguring/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <div align="center">
 
